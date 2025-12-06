@@ -5,7 +5,7 @@ Play against a friend and enjoy this classic logic-based strategy game.
 
 ## 🚀 Live Demo
 
-#🔗 Play the Game Here:
+🔗 Play the Game Here:
 👉 https://soumyajit-sasmal.github.io/Tick-Toca-GAME/
 
 ## 🧩 Features
